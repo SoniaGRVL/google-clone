@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/google-clone/static/css/main.04964c6c.css",
+    "main.js": "/google-clone/static/js/main.b9197d09.js",
+    "static/media/googleLogo.png": "/google-clone/static/media/googleLogo.85707a335f8d3583332c.png",
+    "index.html": "/google-clone/index.html",
+    "main.04964c6c.css.map": "/google-clone/static/css/main.04964c6c.css.map",
+    "main.b9197d09.js.map": "/google-clone/static/js/main.b9197d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04964c6c.css",
+    "static/js/main.b9197d09.js"
+  ]
+}
